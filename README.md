@@ -32,7 +32,13 @@ A touch sensor detects your taps, converts them to Morse code, and prints the de
 - Human finger (highly advanced tactile interface)
 - USB cable to upload code & power the setup
 
+
+
 ---
+### Demo Video
+
+https://github.com/user-attachments/assets/24a539de-57e3-4788-80a8-40bb3e7f0c5d
+
 
 ### Implementation
 **Installation:**
